@@ -4,6 +4,9 @@
 - **Programming Languages:** Java, Python, R, Latex
 - **Databases:** MySQL
 - **Tools & Technologies:** Git, Azure
+## 🔭 **Current Interests**
+
+- AI
 
 <!--
 **estherjames26/estherjames26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
