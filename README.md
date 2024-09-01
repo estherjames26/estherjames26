@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi
+## 🛠 **Technical Skills**
+
+- **Programming Languages:** Java, Python, R, Latex
+- **Databases:** MySQL
+- **Tools & Technologies:** Git, Azure
 
 <!--
 **estherjames26/estherjames26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
